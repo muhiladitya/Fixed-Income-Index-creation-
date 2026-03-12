@@ -15,6 +15,6 @@ def create_bond(file_path):
         bonds.append(bond)
     return bonds
 if __name__ == "__main__":
-    bonds = create_bond("data\\bonds.csv")
+    bonds = create_bond("bonds.csv")
     index = FixedIncomeIndex("My Bond Index", bonds)
     print(index.get_summary())
