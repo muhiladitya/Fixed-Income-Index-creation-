@@ -21,5 +21,5 @@ This index is **Market-Value Weighted**.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/fixed-income-index.git](https://github.com/yourusername/fixed-income-index.git)
+   git clone [https://github.com/muhiladitya/fixed-income-index.git](https://github.com/muhiladitya/fixed-income-index.git)
    cd fixed-income-index
